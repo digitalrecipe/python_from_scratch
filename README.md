@@ -14,7 +14,7 @@ Road map - Python begginer to Expert...
 4b. pip install  
 4c. pip list and pip freeze  
 4d. git install  
-4e. install many modules from file.txt  
+4e. install many modules from file.txt
 5.Python hello world and syntax  
 5a. interractive mode  
 5b. scripting mode  
