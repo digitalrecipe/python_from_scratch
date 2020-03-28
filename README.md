@@ -8,7 +8,7 @@ Road map - Python begginer to Expert...
 2a. Basic IDE installation  
 2b. Pycharm installation  
 2c. Anaconda installation  
-3. Python 2.x.x Vs 3.x.x Differance
+3. Python 2.x.x Vs 3.x.x Difference
 4. How to install modules in python  
 4a. manval method  
 4b. pip install  
